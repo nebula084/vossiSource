@@ -87,10 +87,13 @@ min-width: 150px;}
   text-align: left;
 color: #F7EFF3;
 padding: 12px 16px;
+
+
+
 display: block;
 }
 
-.dropdown-content a:hover {background-color: #F7EFF3}
+.dropdown-content a:hover {background-color: #ce7a76}
 
 .dropdown:hover .dropdown-content {
 display: block;
