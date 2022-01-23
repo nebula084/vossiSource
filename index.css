@@ -32,7 +32,8 @@ nav {
   position: relative;
   border-width: 10px;
   border-style: solid;
-  border-color: #8f6183;
+  border-color: #D9837E
+  ;
   width: 500px;
   height: 500px;
 
@@ -47,7 +48,7 @@ h2 {font-size: 20px}
 
 a {
   cursor: pointer;
-  color: #F3ECEB;
+  color: #F7EFF3;
 }
 
 .dropbtn {
@@ -77,28 +78,28 @@ display: inline-block;
 .dropdown-content {
 display: none;
 position: absolute;
-background-color: #B77CA8;
+background-color: #D9837E;
 box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
 z-index: 1;
 min-width: 150px;}
 
 .dropdown-content a {
   text-align: left;
-color: #F3ECEB;
+color: #F7EFF3;
 padding: 12px 16px;
 display: block;
 }
 
-.dropdown-content a:hover {background-color: #6b4a70}
+.dropdown-content a:hover {background-color: #F7EFF3}
 
 .dropdown:hover .dropdown-content {
 display: block;
 }
 
 .dropdown:hover .dropbtn {
-background-color: #6b4a70;
+background-color: #d48b4b;
 }
 .dropdown:hover {
-  background: #6b4a70;
+  background: #d48b4b;
 }
 
