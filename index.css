@@ -8,7 +8,7 @@ body {
 }
 
 nav {
-    background-color: #DE914F;
+    background-color: #;
     width: 70px;
     height: 100%;
     position: fixed;
@@ -54,7 +54,7 @@ a {
   font-family: inherit;
 
   background-color: inherit;
-  color: #F3ECEB;
+  color: #DE914F;
 padding: 16px;
 font-size: 18px;
 border: none;
@@ -66,8 +66,8 @@ cursor: pointer;
   cursor: pointer;
 
   text-align: center;
-  background-color: #c080b0;
-  color: #F3ECEB;
+  background-color: #DE914F;
+  color: #576A8C;
   padding: 0px;
   width: 20%;
 position: relative;
