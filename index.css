@@ -12,6 +12,9 @@ nav {
     width: 70px;
     height: 100%;
     position: fixed;
+    border-right: #c78246;
+    border-top-right-radius: 5px;
+    border-top-right-radius: 5px;
 }
 
 .navItem {
