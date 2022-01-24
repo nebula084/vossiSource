@@ -76,7 +76,8 @@ cursor: pointer;
 
 .dropdown {
   cursor: pointer;
-
+border-color: #c78246;
+border-radius: 5px;
   text-align: center;
   background-color: #DE914F;
   color: #576A8C;
