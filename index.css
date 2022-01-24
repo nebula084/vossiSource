@@ -43,7 +43,7 @@ nav {
   margin-top: 15px;
   position: relative;
   border-width: 10px;
-  border-style: inset;
+  border-style: none;
   border-color: #D9837E
   ;
   width: 500px;
