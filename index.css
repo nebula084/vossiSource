@@ -40,7 +40,7 @@ nav {
   margin-top: 10px;
   position: relative;
   border-width: 10px;
-  border-style: solid;
+  border-style: inset;
   border-color: #D9837E
   ;
   width: 500px;
