@@ -40,7 +40,8 @@ nav {
   border: none;
 }
 #gameWindow {
-  margin-top: 15px;
+
+  margin: 15px;
   position: relative;
   border-width: 10px;
   border-style: none;
