@@ -41,9 +41,9 @@ nav {
   margin: 15px;
   position: relative;
   border-width: 10px;
-  border-style: none;
-  border-color: #D9837E
-  ;
+  border-style: solid;
+  border-radius: 10px;
+  border-color: #D9837E;
   width: 500px;
   height: 500px;
 
