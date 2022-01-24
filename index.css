@@ -78,6 +78,8 @@ cursor: pointer;
   text-align: center;
   background-color: #DE914F;
   color: #576A8C;
+  border-style: solid;
+  border-width: 5px;
   padding: 0px;
   width: 20%;
 position: relative;
