@@ -13,8 +13,12 @@ nav {
     height: 100%;
     position: fixed;
     border-right-style: solid;
-    border-right-color: #6dadbb;
-    border-right-width: 5px;
+    border-top-style: solid;
+    border-bottom-style: solid;
+
+
+    border-color: #6dadbb;
+    border-width: 5px;
     border-top-right-radius: 10px;
     border-top-right-radius: 10px;
 }
