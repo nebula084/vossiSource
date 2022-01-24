@@ -36,6 +36,9 @@ nav {
 
     height: 50px;
 }
+#gameFrame {
+  border: none;
+}
 #gameWindow {
   margin-top: 10px;
   position: relative;
