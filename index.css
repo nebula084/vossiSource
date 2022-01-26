@@ -8,6 +8,7 @@ body {
 }
 
 nav {
+    margin-right: 5px;
     background-color: #98D9E7;
     width: 70px;
     height: 100%;
